@@ -1,21 +1,28 @@
-# Defi Economy
+# ReThinking Liquidity Use
 
-Defi growth usecase
+How can we leverage blockchain usecases and applications to help grow our reserve funds in a safe/effective way?
 
-Defi economy and how this economy can help businesses grow in volatile market
--	Growth of economy
--	User growth/ money influx
+What is the Blockchain?
+
+
+Is De-Fi growing?(Chuck)
+-   Total value locked (TVL) analysis
+-   Automated Market Maker (AMM) Analysis
+
+How this economy can help businesses grow in volatile market?(Jerry)
 -	Staking
 -	Stable coins
 -	lending
--	Sharpe ratio
--	Growth of tokens and projects coming to blockchain.
--	Company cases 
--	Example portfolio
 
+What would my Portfolio look like?(David)
+-   Interest rates(Traditional VS. CeFi)
+-   How do I compare portfolios
+-   Example datasets
+-   Web app
 
-- David datasets
+Who is doing this now?(Andrew)
+-   Crypto on the balance sheet
+-   monte carlo simulation with crpyto on balance sheet
+-   Risk/Reward analysis
 
-* https://www.kaggle.com/datasets?search=bitcoin
-* https://www.kaggle.com/datasets?search=ethereum
-* https://datasetsearch.research.google.com/search?query=blockchain&docid=L2cvMTFsajhieXh2Yg%3D%3D
+Whats the outcome?
