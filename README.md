@@ -1,6 +1,6 @@
-![Slide1](\DeFi Economy\Slide1.JPG)
+![Slide1](DeFi Economy\Slide1.JPG)
 
-![Slide2](\DeFi Economy\Slide2.JPG)
+![Slide2](DeFi Economy\Slide2.JPG)
 
 ![Slide3](\DeFi Economy\Slide3.JPG)
 
