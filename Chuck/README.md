@@ -67,9 +67,11 @@ My Jupyter notebook and my stuff is in folder - **chuck**
 
 - Discuss any problems that arose after exploring the data, and how you resolved them.
 
-  - **Issue with API calls getting error 500 for Total Value locked in since couple  days. Other APIs are working. i had fortunately saved the HVPlots. But i also saved the dateframe as a File. so i could import that and work with it in future. i also posted this in their Discord App and they are looking into it now.**
+  - **Issue with API calls getting error 500 for Total Value locked in since couple  days. Other APIs are working. i had fortunately saved the HVPlots. But i also saved the dateframe as a File. so i could import that and work with it in future. i also posted this in their Discord App and they are looking into it now.**![image-20210608145614790](/Users/chakravartiraghavan/Library/Application Support/typora-user-images/image-20210608145614790.png)
 
-  ![image-20210608145614790](/Users/chakravartiraghavan/Library/Application Support/typora-user-images/image-20210608145614790.png)
+  
+
+  ![](image-20210608145614790.png)
 
   
 

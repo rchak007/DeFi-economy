@@ -1,4 +1,12 @@
-# ReThinking Liquidity Use
+
+
+##  Link to presentation pdf
+
+ [DeFi Economy.pdf](DeFi Economy.pdf) 
+
+
+
+# Liquidity Use
 
 How can we leverage blockchain usecases and applications to help grow our reserve funds in a safe/effective way?
 
